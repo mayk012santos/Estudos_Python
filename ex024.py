@@ -1,0 +1,7 @@
+cidade = str(input('Digite a cidade em que você nasceu: ')).upper()
+print('Você nasceu na ciddade ( {} )?'.format(cidade))
+print(cidade [::] == 'RECIFE')
+print(cidade [::] == 'JABOATÃO DOS GUARARAPES')
+print(cidade [::] == 'CRUZ')
+print(cidade [::] == 'PAULISTA')
+print(cidade [::] == 'OLINDA')
