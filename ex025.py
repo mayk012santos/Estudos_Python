@@ -1,3 +1,4 @@
+#oi, pessoa
 nome = str(input('Digite seu nome completo: ')).strip()
 
 print('Tem "SANTOS" em seu nome: {}'.format("SANTOS" in nome))
